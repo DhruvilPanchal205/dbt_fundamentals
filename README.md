@@ -6,6 +6,9 @@ Welcome to your new dbt project!
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=Snowflake&logoColor=white">
 </div>
 
+### Completion Badge
+[dbt fundamentals]((https://github.com/DhruvilPanchal205/dbt_fundamentals/blob/main/670eef9a-af76-47e1-9a1b-b38f48a02cbc.png))
+
 ### Using the starter project
 
 Try running the following commands:
@@ -19,3 +22,4 @@ Try running the following commands:
 - Join the [dbt community](https://getdbt.com/community) to learn from other analytics engineers
 - Find [dbt events](https://events.getdbt.com) near you
 - Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+
