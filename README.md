@@ -7,7 +7,8 @@ Welcome to your new dbt project!
 </div>
 
 ### Completion Badge
-![dbt fundamentals]((https://github.com/DhruvilPanchal205/dbt_fundamentals/blob/main/670eef9a-af76-47e1-9a1b-b38f48a02cbc.png))
+![dbt fundamentals](https://raw.githubusercontent.com/DhruvilPanchal205/dbt_fundamentals/main/670eef9a-af76-47e1-9a1b-b38f48a02cbc.png)
+
 
 ### Using the starter project
 
